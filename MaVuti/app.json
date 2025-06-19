@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "MaVuti",
+    "slug": "MaVuti",
+    "version": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "f613d108-7af7-4469-a836-16b37cdb1314"
+      }
+    }
+  }
+}
